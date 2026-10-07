@@ -1,0 +1,6 @@
+# 26 Integrations And Sdk
+
+**Project:** CLIP_AS_SERVICE
+**Upstream:** https://github.com/jina-ai/clip-as-service
+
+Content specific to CLIP_AS_SERVICE in category ONLINE_RETAIL.
