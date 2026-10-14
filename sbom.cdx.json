@@ -1,0 +1,38 @@
+{
+  "bomFormat": "CycloneDX",
+  "specVersion": "1.5",
+  "serialNumber": "urn:uuid:b71b1b4a-cae7-5f55-807c-afc977f56eac",
+  "version": 1,
+  "metadata": {
+    "timestamp": "2026-10-06T12:53:34Z",
+    "component": {
+      "type": "application",
+      "name": "CLIP_AS_SERVICE_PRIOR_DOCS",
+      "version": "03410570d439",
+      "bom-ref": "pkg:generic/anticloud/CLIP_AS_SERVICE_PRIOR_DOCS@03410570d439",
+      "purl": "pkg:generic/anticloud/CLIP_AS_SERVICE_PRIOR_DOCS@03410570d439",
+      "licenses": [
+        {
+          "license": {
+            "id": "NOASSERTION"
+          }
+        }
+      ]
+    },
+    "properties": [
+      {
+        "name": "anticloud:source-commit",
+        "value": "03410570d4398084f5ca5c88ad968248e0f3fc5d"
+      },
+      {
+        "name": "anticloud:source-url",
+        "value": "https://github.com/jina-ai/clip-as-service"
+      },
+      {
+        "name": "anticloud:tier",
+        "value": "tier-agent"
+      }
+    ]
+  },
+  "components": []
+}
